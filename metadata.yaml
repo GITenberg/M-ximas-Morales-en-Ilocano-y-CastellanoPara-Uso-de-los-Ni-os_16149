@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16149#M-ximas-Morales-en-Ilocano-y-CastellanoPara-Uso-de-los-Ni-os
 gutenberg_issued: '2005-06-29'
 gutenberg_type: Text
 identifiers:
